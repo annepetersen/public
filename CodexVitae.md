@@ -5,11 +5,12 @@
 - You must admit to being the maker of meaning
 - You must have a vision that you are striving for
 - You must be the change you want to see
-- You must rally others with your vision
+- You must rally others with your vision, and lead by example
 - You must be your best self whenever possible
 - You must be the change you want to see
 - You must share
 - You must manage your stress, health, and clarity
+- You must be grateful for all you have/are/will (be)
 - You must be as comfortable as possible with the consequences of being who you are, even if society isn’t ready for it
 - You must study your mistakes
 - You must retry things you don’t like occasionally
@@ -19,11 +20,14 @@
 - You must make time to enjoy things
 - You must be proactive in staying healthy, long- and short-term
 - You should face things that make you uncomfortable
+- You must be brave for yourself and others
+- You must learn, grow, adventure and challenge (yourself, others, all of the above)
 - You should take responsibility for things you find important, even if you can’t fully control them
+- You are enough
 
 ## Personal Canon
 
-### Articles I continue to return to
+### Articles I return to
 
 * [When We Build](http://vimeo.com/34017777) - Wilson Miner
 * [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra

@@ -16,7 +16,7 @@
 - Health care should be available and easy-to-obtain and manage to everyone who needs it
 - Prisons should be about protecting the public, not about punishment
 - Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years
-- People, organizations, and governments will exchange privacy for connection when they trust each other
+- People, organizations, and governments will exchange privacy for connection when they trust each other: this can shift over time as trust fluctuates
 
 ## On Life
 - Frequently remembering we will die increases the quality of our life
@@ -50,17 +50,17 @@
 - We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (again, it's practical)
 - We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities
 - The by-product of these mental heuristics is that we are biased at all times in proportion to the number of heuristics we use
-- We are the sum of our biases
+- We are the sum of our biases (sometimes sadly)
 
 ## On Biases
 - We tend to favor the beautiful
 - We tend to see what we expect to see
 - Some biases are dangerous to other humans, in a major or minor way, immediately or over time
 - Like behavior and habits, these can be changed but it requires a lot of energy
-- Many biases are crucial for people to change if society/the world is to advance
+- It’s crucial to change many biases if society/the world is to advance
 
 ## On The Future Of Earth (2100)
-- Global warming is real and will continue to cause big problems
+- Global warming is real and will continue to cause huge problems
 - The number of living languages in the world will drop to under 100
 - Coral reefs and the ocean ecosystems are going to break with unknown consequences
 - Solar and wind will slowly replace gas and oil 
