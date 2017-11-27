@@ -5,7 +5,7 @@ Review regularly. *[Learn about Hydra here](https://medium.com/better-humans/c02
 
 ### 2014 Progress: -++++--
 
-##### May 2014 : INPROGRESS
+##### May 2014 
 Focus.
 * *Self Mode:* meditation
 * *Flow Mode:* photography, workout, reading
@@ -14,7 +14,7 @@ Focus.
 
 ### 2013 Progress: -++++--
 
-##### Sept 2013 : INPROGRESS
+##### Sept 2013 
 I want to track at least 5 "quality times" a week. Quality times that count: quality time with significant other, close friends, myself, and work. (Use Lift if it helps.)
 * *Self Mode:* meditation
 * *Flow Mode:* photography, workout, reading
@@ -40,7 +40,7 @@ Do my morning routine at least 5 days a week: drink a glass of water, do a sun s
 * *Self Mode:* meditation
 * *Flow Mode:* meditation
 At least 5 days a week, do the following immediately upon waking up. 1) drink a glass of water 2) do at least 1 sun salutation while contemplating ways to be proactive in the day. 3) meditate for 5 minutes.
-At least 5 days a week, start my day proactively by doing at least one of these 5 things before looking at my phone: drink a glass of water, stretch, do pushups, hold my breath and meditate as long as I can.
+At least 5 days a week, start my day proactively by doing at least one of these 5 things before looking at my phone: drink a glass of water, stretch, and/or meditate.
 
 # My Interests
 * How do we change ourselves?
@@ -48,7 +48,7 @@ At least 5 days a week, start my day proactively by doing at least one of these 
 * Meditation
 * Work
 * Bike rides
-* Gardening
+* Gardening/plants
 
 # My People
 * (list in confidence)
@@ -57,6 +57,6 @@ At least 5 days a week, start my day proactively by doing at least one of these 
 *See my [Beliefs File](Beliefs.md).*
 
 # Chaos Monkey Tricks
-* Separated by travel
+* Travel
 * Sick
 * Upheaval
