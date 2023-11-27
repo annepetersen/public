@@ -7,7 +7,6 @@
 - You must be the change you want to see
 - You must rally others with your vision, and lead by example
 - You must be your best self whenever possible
-- You must be the change you want to see
 - You must share
 - You must manage your stress, health, and clarity
 - You must be grateful for all you have/are/will (be)
@@ -25,7 +24,7 @@
 - You should take responsibility for things you find important, even if you can’t fully control them
 - You are enough
 
-## Personal Canon
+## Personal canon
 
 ### Articles I return to
 
