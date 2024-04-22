@@ -16,8 +16,12 @@ I'll be creating a list of my own here shortly. Right now I keep this as a priva
 
 A couple categories I keep privately but don't intend to put here include sports, since competition sometimes gets ugly, they're often Americanisms, especially baseball references, and also I'm often just not good at these, swearing, some that just sound bad, and a miscellaneous / catch-all category mostly consisting of edge cases.
 
+This list is a sub-set of the full list, because it absolutely is possible to take this to extremes and — hello! — that's sometimes me. This is one example. Get in touch if you're curious to see more or want to urge me to publish the rest. first name last name @ gmail — just spell it right.
+
 ## Alternatives
 
 What language could we use that's better? is a longer-term project. My colleague Peter suggested theatre kid terminology like "hard act to follow," for example.
 
-### The list
+## The list
+
+### 
