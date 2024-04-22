@@ -24,4 +24,89 @@ What language could we use that's better? is a longer-term project. My colleague
 
 ## The list
 
-### 
+### Ableist
+
+- "as a crutch"
+
+### Addiction / alcohol / substance use (see also gambling below)
+
+- "addicted to" (either when not, or actual)
+
+### Ageist
+
+- "age before beauty"
+
+### Animal use / abuse
+
+- "as an attack dog"
+
+### Carceral
+
+- "cop-out"
+
+### Classist
+
+- "first-world" problem
+
+### Closed practices / appropriation / diminutizing
+
+- "lowest on the totem pole"
+
+### Colonial / empire
+
+- "bury the hatchet"
+
+### Colorism
+
+- "black ball"
+
+### Competitive (also sometimes ableist)
+
+- "beat you to it"
+
+### Gambling
+
+- "bets"
+
+### Gendered
+
+- actress (actor)
+
+### Illegal
+
+- "crib from" (from the physical item, a small basket that poachers would conceal their catch in"
+
+### Military
+
+- "10-4"
+- about-face
+- above board (nautical if not military)
+
+# Mocking other languages / English as a non-first language
+
+- "long time no see"
+- "no problemo"
+
+### Racial overtones / slavery (see also: racist, below)
+
+- cakewalk (originally a dance done by enslaved people as a mockery of white people: owners held dance contests where the prize was a cake. Later the dance and idiom were popularized by minstrel shows)
+- civil servant (anything containing "servant" may be problematic for people who have held that role, whose family have, or whose forebears were enslaved and thus were forced into that role)
+
+### Racist / eugenicist
+
+- "bad juju"
+- "Chief" as in "listen, Chief"
+
+### Religious (since majority religions have been or are oppressive)
+
+- "chapter and verse"
+- Easter egg
+- "evangelize"
+
+### Violent (see also many in military, above)
+
+- "add fuel to the fire"
+- "beat them to the punch"
+
+
+
